@@ -1,4 +1,4 @@
-function basicTeenager(age) {
+function basicTeenager(13) {if (basicTeenager = 13){ print "ypu are a teenager!"}
 
 }
 
